@@ -1,3 +1,8 @@
+/*!
+ *  AFNetworking.h
+ *  AFNetworking
+ */
+
 // AFNetworking.h
 //
 // Copyright (c) 2011 Gowalla (http://gowalla.com/)
