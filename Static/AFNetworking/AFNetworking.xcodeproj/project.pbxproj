@@ -408,7 +408,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos5.0;
-				SYMROOT = "${SRCROOT}/buildout";
+				SYMROOT = "";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Debug;
@@ -434,7 +434,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos5.0;
-				SYMROOT = "${SRCROOT}/buildout";
+				SYMROOT = "";
 				WRAPPER_EXTENSION = framework;
 			};
 			name = Release;
